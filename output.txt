@@ -1,0 +1,2 @@
+Child process writing to file (PID=78190)
+Parent process writing to file (PID=78181)
